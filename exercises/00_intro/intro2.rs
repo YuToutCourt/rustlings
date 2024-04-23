@@ -8,9 +8,9 @@
 /*
 WRITE UP:
 
-Il manqué un ; à la fin du print et le printline est faux il faut utiliser println!()
+La macro printline!() n'existe pas en Rust. Il faut utiliser println!() pour afficher du texte.
 
-Mauvaise macro utilisée!
+Il manque aussi un ; à la fin.
 
 */
 
