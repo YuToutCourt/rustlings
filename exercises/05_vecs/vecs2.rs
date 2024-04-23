@@ -11,7 +11,7 @@
 
 Pour le vec_loop, on doit *element *= 2 pour chaque élément du vecteur.
 
-* pour déréférencer l'élément
+* pour déréférencer l'élément et le modifier.
 
 Pour vec_map, on doit utiliser la méthode map() pour appliquer une fonction à chaque élément du vecteur.
 
