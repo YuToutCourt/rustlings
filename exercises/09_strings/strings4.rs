@@ -12,6 +12,9 @@ WRITE UP
 
 Est-ce que je dois vraiment expliquer ce que je viens de faire? Je ne pense pas.
 
+Mon IDE me donne la valeur de chaque variable, donc je sais si c'est un &str ou un String.
+
+
 */
 
 fn string_slice(arg: &str) {
