@@ -3,7 +3,22 @@
 // Execute `rustlings hint functions5` or use the `hint` watch subcommand for a
 // hint.
 
-// I AM NOT DONE
+/*
+
+In Rust they are two way to return a value from a function:
+- using the return keyword
+
+fn square(num: i32) -> i32 {
+    return num * num;
+}
+- without using the return keyword, this on don't take a semicolon at the end of the expression
+
+fn square(num: i32) -> i32 {
+    num * num
+}
+
+
+*/
 
 fn main() {
     let answer = square(3);
@@ -11,5 +26,5 @@ fn main() {
 }
 
 fn square(num: i32) -> i32 {
-    num * num;
+    num * num
 }
