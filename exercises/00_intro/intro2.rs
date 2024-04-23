@@ -9,6 +9,9 @@
 WRITE UP:
 
 Il manqué un ; à la fin du print et le printline est faux il faut utiliser println!()
+
+Mauvaise macro utilisée!
+
 */
 
 
