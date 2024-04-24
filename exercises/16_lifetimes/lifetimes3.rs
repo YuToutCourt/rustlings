@@ -6,7 +6,7 @@
 // hint.
 
 /*
-WRITE UP
+WRITE UP:
 
 Pour corrige le problème de life time il y a 2 solutions.
 

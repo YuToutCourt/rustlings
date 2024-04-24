@@ -21,7 +21,7 @@
 // No hints this time!
 
 /*
-WRITE UP
+WRITE UP:
 
 Pour la fonction on prendre en paramètre un vecteur de tuples (String, Command) et on retournera un vecteur de String.
 Lire le code en dessous pour le comprendre et l'ajouter

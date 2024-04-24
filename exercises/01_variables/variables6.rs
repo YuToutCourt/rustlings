@@ -5,7 +5,10 @@
 
 /*
 WRITE UP:
-In Rust, when you declare a constant using the const keyword, you need to specify the type of the constant. The Rust compiler needs to know the type of every variable at compile time.
+
+En Rust lorsqu'on déclare une constante avec le mot clé const, 
+on doit spécifier le type de la constante. Le compilateur Rust doit connaitre le type de chaque variable au moment de la compilation.
+
 */
 
 const  NUMBER: i32 = 3;

@@ -14,7 +14,7 @@
 // No hints this time ;)
 
 /*
-WRITE UP
+WRITE UP:
 
 Fallait juste faire un if else pour vérifier si la quantité était supérieure à 40
 et retourner la quantité si c'était le cas, sinon retourner la quantité * 2

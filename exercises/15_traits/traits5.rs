@@ -8,7 +8,7 @@
 // hint.
 
 /*
-WRITE UP
+WRITE UP:
 
 Il faut que je change la signature de la fonction `some_func` pour qu'elle prenne un paramètre item d'un des 2 types.
 

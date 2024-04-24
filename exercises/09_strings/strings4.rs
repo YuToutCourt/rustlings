@@ -8,7 +8,7 @@
 // No hints this time!
 
 /*
-WRITE UP
+WRITE UP:
 
 Est-ce que je dois vraiment expliquer ce que je viens de faire? Je ne pense pas.
 

@@ -11,7 +11,7 @@
 // hint.
 
 /*
-WRITE UP
+WRITE UP:
 
 values.len() étant un usize il faut le convertir en f64 pour pouvoir diviser
 

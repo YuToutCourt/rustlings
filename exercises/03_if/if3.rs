@@ -3,7 +3,10 @@
 // Execute `rustlings hint if3` or use the `hint` watch subcommand for a hint.
 
 /*
-La valeur que identifier prend doit lier au if else de habitat. Donc soit 1, 2 ou 3. Pas de float ou de STR
+WRITE UP:
+
+La valeur que "identifier" doit prendre lier au if else de "habitat". 
+Donc soit 1, 2 ou 3. Pas de float ou de STR, il y a pas meilleur solution.
 */
 
 pub fn animal_habitat(animal: &str) -> &'static str {

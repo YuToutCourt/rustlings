@@ -9,7 +9,7 @@
 // hint.
 
 /*
-WRITE UP
+WRITE UP:
 
 SystemTime et UNIX_EPOCH sont des types de données de la bibliothèque standard de Rust.
 Donc pour les utiliser, il faut les importer dans le scope du programme.

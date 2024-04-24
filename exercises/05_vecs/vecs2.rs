@@ -8,10 +8,11 @@
 // Execute `rustlings hint vecs2` or use the `hint` watch subcommand for a hint.
 
 /*
+WRITE UP:
 
 Pour le vec_loop, on doit *element *= 2 pour chaque élément du vecteur.
 
-* pour déréférencer l'élément et le modifier.
+J'utilise * pour déréférencer l'élément et le modifier. 
 
 Pour vec_map, on doit utiliser la méthode map() pour appliquer une fonction à chaque élément du vecteur.
 

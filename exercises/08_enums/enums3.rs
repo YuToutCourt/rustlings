@@ -6,7 +6,7 @@
 // hint.
 
 /*
-WRITE UP
+WRITE UP:
 
 On doit implémenter un enum Message qui contient les variantes suivantes:
 - ChangeColor(u8, u8, u8)

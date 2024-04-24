@@ -6,7 +6,7 @@
 // hint.
 
 /*
-WRITE UP
+WRITE UP:
 
 Bon ici le plus dur c'était de faire panic le programme quand on essaye de créer un rectangle avec des valeurs négatives
 Pour ce faire il suffit de rajouter le décorateur #[should_panic] ou attribut je ne connais pas le nom au dessus de la fonction de test

@@ -9,7 +9,7 @@
 
 
 /*
-WRITE UP
+WRITE UP:
 
 is_international() doit returner un booléen qui indique si le pays d'origine et le pays de destination sont différents.
 Pour le faire on fait juste une comparaison entre les deux champs de la structure.

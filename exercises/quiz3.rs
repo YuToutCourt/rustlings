@@ -17,7 +17,7 @@
 // Execute `rustlings hint quiz3` or use the `hint` watch subcommand for a hint.
 
 /*
-WRITE UP
+WRITE UP:
 
 J'ai modifier le struct ReportCard pour qu'il accepte un type générique T.
 Dans l'impl block, j'ai ajouté une contrainte sur T pour qu'il implémente le trait Display.

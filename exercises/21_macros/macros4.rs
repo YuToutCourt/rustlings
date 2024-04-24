@@ -4,7 +4,7 @@
 // hint.
 
 /*
-WRITE UP
+WRITE UP:
 
 La macro à était mal définie, il manquait un ; ligne 18
 

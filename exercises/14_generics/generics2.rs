@@ -7,7 +7,7 @@
 // hint.
 
 /*
-WRITE UP
+WRITE UP:
 
 Vu que dans les tests on a un u32 et un str, on peut utiliser un type générique pour Wrapper.
 

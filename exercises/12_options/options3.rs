@@ -4,7 +4,7 @@
 // hint.
 
 /*
-WRITE UP
+WRITE UP:
 
 ⚠️  Compiling of exercises/12_options/options3.rs failed! Please try again. Here's the output:
 error[E0382]: use of partially moved value: `y`

@@ -7,7 +7,7 @@
 // for a hint.
 
 /*
-WRITE UP
+WRITE UP:
 
 Pour accéder à un élément d'un tuple, on utilise la syntaxe suivante : tuple.index
 

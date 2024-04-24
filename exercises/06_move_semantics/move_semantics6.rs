@@ -6,8 +6,8 @@
 // for a hint.
 
 /*
-WRITE-UP
-
+WRITE UP:
+    
 La fonction get_char prend ownership de la String data, donc on ne peut plus l'utiliser après. 
 Donc premier fix : get_char(&data); et get_char(data: &String); J'ai réjouter les & pour passer une référence à la fonction get_char
 
