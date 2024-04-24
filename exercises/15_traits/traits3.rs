@@ -9,7 +9,9 @@
 // hint.
 
 pub trait Licensed {
-    fn licensing_info(&self) -> String;
+    fn licensing_info(&self) -> String{
+        "Some information".to_string()
+    }
 }
 
 struct SomeSoftware {
@@ -20,18 +22,8 @@ struct OtherSoftware {
     version_number: String,
 }
 
-impl Licensed for SomeSoftware {
-
-    fn licensing_info(&self) -> String {
-        format!("Some information")
-    }
-} // Don't edit this line
-impl Licensed for OtherSoftware {
-
-    fn licensing_info(&self) -> String {
-        format!("Some information")
-    }
-} // Don't edit this line
+impl Licensed for SomeSoftware {} // Don't edit this line
+impl Licensed for OtherSoftware {} // Don't edit this line
 
 #[cfg(test)]
 mod tests {
