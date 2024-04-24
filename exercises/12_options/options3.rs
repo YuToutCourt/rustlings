@@ -26,7 +26,9 @@ error: aborting due to 1 previous error
 
 J'ai juste suivis les instructions de l'erreur et j'ai ajouté le mot clé ref dans le match pour éviter de déplacer la valeur de y.
 
-
+ref permet de faire une référence à la valeur sans la déplacer.
+ça ressemble à un pointeur mais ce n'est pas un pointeur.
+Point n'implémente pas le trait Copy donc on peut pas le copier comme ça avec clone().
 */
 
 struct Point {
